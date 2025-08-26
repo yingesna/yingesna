@@ -7,10 +7,10 @@
 
 ---
 
-- 🎯 I'm interested in **Project Management & Business Analytics internships (Summer 2026)**  
-- 🌱 Currently learning **AWS Cloud Infrastructure & Cloud Computing concepts**  
-- 📊 Experienced in **Tableau** and **R Markdown** for data visualization and reporting  
-- 📫 Reach me at **ny0985942@gmail.com**
+- 🎯 I'm interested in Project Management and Business Analytics internships for Summer 2026  
+- 🌱 Currently learning AWS Cloud Infrastructure and Cloud Computing concepts  
+- 📊 Experienced in Tableau and R Markdown for data visualization and reporting  
+- 📫 Reach me at ny0985942@gmail.com  
 
 ---
 
@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> 
+    <img src="./aws-logo.png" alt="AWS" width="50" height="40"/> 
   </a>
 </p>
 
