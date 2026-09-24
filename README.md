@@ -18,7 +18,7 @@
 - 💡 Experience working across operations, technical teams, business analysis, and entrepreneurship
 - 🎓 BBA in Management with a minor in Data Analytics from the University of Washington
 - 💻 Experience with Python, Java, SQL, Tableau, Power BI, R, and AWS
-- 📫 Reach me at **ny0985942@gmail.com**
+- 📫 Reach me at **nardosyingess@gmail.com**
 
 ---
 
